@@ -121,10 +121,12 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o 
+
 ![catfile](./jehf/ex05.png)
 
 
 $ ipcs
+
 
 ![catfile](./jehf/ghfdg.png)
 
